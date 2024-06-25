@@ -1,0 +1,10 @@
+path: C:\Users\NAITIK\Desktop\Person Recognition\data  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: Nilesh
+  1: Vinod
+  2: Unnati
+  3: Krina
